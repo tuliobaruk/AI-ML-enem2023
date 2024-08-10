@@ -88,11 +88,11 @@ Abaixo está um resumo das transformações e mapeamentos aplicados ao dataset:
 
 | Valor | Descrição           |
 | ----- | ------------------- |
-| A     | Não                 |
-| B     | Sim, uma            |
-| C     | Sim, duas           |
-| D     | Sim, três           |
-| E     | Sim, quatro ou mais |
+| 0     | Não                 |
+| 1     | Sim, uma            |
+| 2     | Sim, duas           |
+| 3     | Sim, três           |
+| 4     | Sim, quatro ou mais |
 
 ### 6. PRESENCA_COMPLETA: Status de Presença
 
